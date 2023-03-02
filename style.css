@@ -166,7 +166,7 @@ label {
   background-color: #E6E7EB;
 }
 
-/* Changed font-weight 600 to 700 on 01-03-2023 by vinay   */
+/* Changed font-weight 600 to 700 on 01-03-2023 by vinay  */
 ::-webkit-input-placeholder {
   /* Edge */
   color: #000000;
@@ -26116,7 +26116,7 @@ button.close .icon {
 .nav.nav-tabs {
   padding-bottom: 18px;
 }
-/* 
+
 #block-tabs .nav.nav-tabs li {
   margin-right: 12px;
 }
@@ -26163,7 +26163,7 @@ button.close .icon {
   #block-tabs .nav.nav-tabs li a.is-active {
     font-size: 1rem;
   }
-} */
+} 
 
 /* End : change on 01-03-2023 by vinay */
 
